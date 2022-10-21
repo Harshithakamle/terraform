@@ -1,1 +1,2 @@
 checking jenkins job file.
+and auto-start or not
